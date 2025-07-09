@@ -1,5 +1,7 @@
 ## `project_collector` collects selected project code in one Markdown file.
 
+No external dependencies, only the stdlib. So there's no need to create virtual env.
+
 The script accepts the following parameters:
 
 * Path to the logging directory (required)
