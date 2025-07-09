@@ -1,11 +1,3 @@
-### backlog
-
-url_checker
-https://pin-up-global.slack.com/archives/C03NN429U2X/p1751869898043659
-
-
------
-
 ## `project_collector` collects selected project code in one Markdown file.
 
 The script accepts the following parameters:
